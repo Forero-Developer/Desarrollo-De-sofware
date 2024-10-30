@@ -6,4 +6,4 @@ SEGUNDA LINEA
 
 Tercera linea
 
-GRUPO: jero,forero,nelsito
+*GRUPO: jero,forero,nelsito*
